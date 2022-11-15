@@ -1,4 +1,5 @@
-namespace Backend.Models;
+using Microsoft.EntityFrameworkCore;
+namespace LibManager.Models;
 
 public class Book
 {
@@ -12,3 +13,4 @@ public class Book
     public string Session { get; set; }
     public bool Loaned { get; set; }
 }
+

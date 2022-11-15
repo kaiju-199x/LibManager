@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "n5xgAQ6zUIaWw0GRiBAnxS+iKccCeaRf+F00sBYdNq4=",
-  "Source": "Backend",
-  "BasePath": "_content/Backend",
+  "Hash": "XSy4WerJmeEq4F0e+HMWCtPxNsP19w+iyp2LDuU6F0g=",
+  "Source": "LibManager",
+  "BasePath": "_content/LibManager",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
