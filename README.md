@@ -1,3 +1,3 @@
 # LibManager
 
-Removi todos os arquivos desnecessários.
+Deleta esse repositório e entra no novo.
