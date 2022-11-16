@@ -1,4 +1,4 @@
-namespace Backend.Models;
+namespace LibManager.Models;
 
 public class User
 {
